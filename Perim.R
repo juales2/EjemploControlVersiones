@@ -7,3 +7,6 @@ LongitudCircunferencia<-function(R){
 AreaTrapecio <- function(b,B,H){
   return((b+B)*H/2)
 }
+PerimetroRectangulo <- function(L,l){
+  return((L+l)*2)
+}
