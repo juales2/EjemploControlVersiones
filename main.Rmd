@@ -37,5 +37,8 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 AreaTriangulo <- function(B,H){
   return(B*H/2)
 }
+AreaRectangulo <- function(B,H){
+  return(B*H)
+}
 ```
 
