@@ -1,3 +1,3 @@
-AreasCuadrado <- (L) {
+PerimetroCuadrado <- (L) {
   return(4*L)
 }
